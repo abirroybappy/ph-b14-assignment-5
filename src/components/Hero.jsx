@@ -22,7 +22,7 @@ export default function Hero() {
           <p className="mt-6 max-w-xl text-base leading-7 text-gray-500 md:text-lg">
             Explore frontend, backend, database, and tooling options,
 compare them side by side, and put together the stack that fits your
-next 
+next p
           </p>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
