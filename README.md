@@ -4,7 +4,7 @@
 
 Users can explore different technologies, select the tools they prefer, and dynamically manage their customized stack through a simple and user-friendly interface.
 
----
+
 
 ## 🌐 Project Overview
 
@@ -19,7 +19,7 @@ The application allows users to:
 * ⚡ Dynamically update the UI based on user actions
 * 🔔 Get instant feedback using toast notifications
 
----
+
 
 ## 🧑‍💻 Technologies Used
 
@@ -31,7 +31,6 @@ The application allows users to:
 * **React-Toastify**
 * **JSON**
 
----
 
 ## ✨ Key Features
 
@@ -44,7 +43,7 @@ The application allows users to:
 * Toast notifications for user feedback
 * Fast development environment with Vite
 
----
+
 
 # ⚛️ React Questions & Answers
 
@@ -60,7 +59,7 @@ const title = <h1>Build Your Perfect Tech Stack</h1>;
 
 JSX makes it easier to write UI components while keeping the markup and JavaScript logic together.
 
----
+
 
 ## 2. What is the difference between Props and State?
 
@@ -86,7 +85,7 @@ const [selectedStack, setSelectedStack] = useState([]);
 
 Here, `selectedStack` is a **state** that can be updated using `setSelectedStack`.
 
----
+
 
 ## 3. What is the useState hook, and how is it used in this project?
 
@@ -102,7 +101,7 @@ const [selectedStack, setSelectedStack] = useState([]);
 
 When a user selects or removes a technology, the state is updated and React automatically updates the UI.
 
----
+
 
 ## 4. What is the useEffect hook, and why is it needed?
 
@@ -122,7 +121,7 @@ useEffect(() => {
 
 The empty dependency array `[]` means the effect runs when the component first mounts, instead of running after every re-render.
 
----
+
 
 ## 5. Why are keys important in React lists?
 
@@ -143,7 +142,7 @@ Example:
 
 Here, `technology.id` provides a unique key for each item.
 
----
+
 
 ## 6. What is conditional rendering? Give an example from this project.
 
