@@ -30,7 +30,7 @@ next project.
               href="#technologies"
               className="gradient-bg rounded-xl px-6 py-3.5 text-center text-sm font-bold text-white shadow-lg shadow-pink-200 transition hover:-translate-y-0.5"
             >
-              Explore Technolog
+              Explore Technologies 
             </a>
 
             <a
