@@ -34,6 +34,7 @@ next project.
             </a>
 
             <a
+              href="#about"
               className="rounded-xl border border-gray-200 bg-white px-6 py-3.5 text-center text-sm font-bold text-gray-700 transition hover:border-gray-300 hover:bg-gray-50"
             >
               Learn More
